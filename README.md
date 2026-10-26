@@ -1,4 +1,4 @@
-# LinkNex Module 5: Punctate Organelle Dynamics
+# LinkODT-dynamic
 
 用于 time-lapse TIFF 的点状细胞器动态分析的 Windows 桌面程序。它提供掩膜生成与人工修订、实例分割、跨帧追踪、ROI 动态分析和 MP4 导出。此仓库只包含独立的 Module 5，不包含 LinkNex 的其他模块。
 
