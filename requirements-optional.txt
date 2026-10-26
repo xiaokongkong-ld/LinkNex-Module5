@@ -1,0 +1,2 @@
+# The analysis backend uses a NumPy fallback when Open3D is absent.
+open3d==0.18.0
